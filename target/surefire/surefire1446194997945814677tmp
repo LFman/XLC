@@ -1,0 +1,5 @@
+#surefire
+#Mon Sep 04 17:01:52 CST 2017
+user.dir=D\:\\jfinal_demo_for_maven
+localRepository=D\:\\apache-maven-3.5.0\\repository
+basedir=D\:\\jfinal_demo_for_maven
